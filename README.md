@@ -1,4 +1,4 @@
-## printf
+# PRINTF
 
 <hr>
 
@@ -7,6 +7,7 @@
 * Group Projects
 * Flowcharts
 * Approaching a Project
+
 <hr>
 
 # Authors
