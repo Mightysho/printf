@@ -1,4 +1,4 @@
-# <h2>printf</h2>
+<h2>printf</h2>
 <hr>
 
 # For this project, students are expected to look at these concepts:
