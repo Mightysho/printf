@@ -1,3 +1,5 @@
+<hr>
+
 # printf     printf     printf     printf     printf     printf     printf     printf     printf
 
 <hr>
@@ -12,5 +14,7 @@
 
 # Authors
 
-* Micheal Shokunbi
-* Ojok Simon Peter
+- [Micheal Shokunbi](https://github.com/Mightysho/)
+- [Ojok Simon Peter](https://github.com/Jokmonsimon/)
+
+<hr>
