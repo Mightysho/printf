@@ -1,4 +1,4 @@
-.TH man 1 "27 July 2021" "0.1" "Custom _printf function"
+.TH man 3 "27 July 2021" "0.1" "Custom _printf function"
 .SH _PRINTF()
 
 .SH NAME
